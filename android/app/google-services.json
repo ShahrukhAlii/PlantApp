@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "77250249959",
+    "project_id": "planttree-f17fd",
+    "storage_bucket": "planttree-f17fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77250249959:android:211f61057bc678b1644e42",
+        "android_client_info": {
+          "package_name": "com.example.plantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77250249959-ci8ufek2pruihbrfo3p63bd4oa5r564e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSJrQY4dQKTTO5WDtr1-HrBySSmcT8BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
